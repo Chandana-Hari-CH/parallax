@@ -1,0 +1,117 @@
+
+
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+       
+        .parallax-1 {
+            width: 100%;
+            height: 600px;
+            background: url(
+'https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/4c1c2042d7e5427d9a0164068ffdbcf6?v=ae0f7173');
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        }
+
+        .parallax-1 h2 {
+			font-family: "Black Ops One", system-ui;
+            margin: auto;
+            position: relative;
+            left: 500x;
+            top: 300px;
+            width: 250px;
+            height: 32px;
+            padding: 10px;
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+
+        
+        .parallax-2 {
+            width: 100%;
+            height: 600px;
+            background: url(
+'https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/30/118050.jpg');
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        }
+        .parallax-2 h2 {
+			font-family: "Black Ops One", system-ui;
+            margin: auto;
+            position: relative;
+            left: 500x;
+            top: 300px;
+            width: 250px;
+            height: 37px;
+            padding: 10px;
+            background-color: rgb(0, 0, 0);
+            color: rgb(23, 76, 234);
+            text-align: center;
+            font-size: 30px;
+            font-family: Verdana;
+        }
+        .parallax-3 {
+            width: 100%;
+            height: 700px;
+            background: url('https://static.wixstatic.com/media/f2b0f7_2733f4b166f84669b003ed66f63c18c4~mv2.jpg/v1/fill/w_2500,h_1666,al_c/f2b0f7_2733f4b166f84669b003ed66f63c18c4~mv2.jpg');
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        }
+		.parallax-3 h2 {
+			font-family: "Black Ops One", system-ui;
+            margin: auto;
+            position: relative;
+            left: 500x;
+            top: 300px;
+            width: 250px;
+            height: 37px;
+            padding: 10px;
+            background-color: rgb(0, 0, 0);
+            color: rgb(23, 76, 234);
+            text-align: center;
+            font-size: 30px;
+            font-family: Verdana;
+        }
+		.parallax-4 {
+            width: 100%;
+            height: 700px;
+            background: url('https://media.cnn.com/api/v1/images/stellar/prod/160301104845-chiron-2.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_447');
+            background-size: 100% 100%;
+            background-attachment: fixed;
+        }
+		.parallax-4 h2 {
+			font-family: "Black Ops One", system-ui;
+            margin: auto;
+            position: relative;
+            left: 500x;
+            top: 300px;
+            width: 250px;
+            height: 37px;
+            padding: 10px;
+            background-color: rgb(0, 0, 0);
+            color: rgb(23, 76, 234);
+            text-align: center;
+            font-size: 30px;
+            font-family: Verdana;
+        }
+
+        .para-1 {
+            padding: 50px;
+            background-color: black;
+            color: white;
+            font-size: 17px;
+        }
+
+        .para-2 {
+            
+            padding: 25px;
+			font-family: "Lobster Two", sans-serif;
+            font-size: 17px;
+            background-color: black;
+            color: white;
+        }
+    
